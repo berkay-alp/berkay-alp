@@ -1,16 +1,41 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**berkay-alp/berkay-alp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍💻 Hakkımda
+Ben Berkay, yazılım geliştirme ile ilgileniyorum.  
+Kendimi özellikle web geliştirme ve backend alanında geliştirmeye çalışıyorum.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 İlgi Alanlarım
+- Web Development
+- Backend Development
+- Software Development
+
+---
+
+## 🛠️ Kullandığım Teknolojiler
+
+- ☕ Java  
+- 🌐 HTML  
+- 🎨 CSS  
+- ⚡ JavaScript  
+- 💻 C  
+
+---
+
+## 📚 Şu Anda Öğreniyorum
+- Advanced Java
+- Modern JavaScript (ES6+)
+- Web Projeleri Geliştirme
+
+---
+
+## 🎯 Hedefim
+Kendimi geliştirerek profesyonel bir yazılım geliştirici olmak ve gerçek projelerde yer almak.
+
+---
+
+## 📫 İletişim
+- GitHub: https://github.com/kullanici_adin
+- Linkedln: www.linkedin.com/in/berkay-alp-61b4762b8
+- Mail: alpberkay01@gmail.com
